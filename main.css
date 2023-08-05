@@ -1,0 +1,36 @@
+.card {
+    display: block;
+    
+    border: 2px solid gainsboro;
+    border-radius: 8px;
+    height: 190px;
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card h2, p {
+    color: white;
+}
+
+.brazil {
+    background-image: url('images/brazil.jpg');
+}
+
+.peru {
+    background-image: url('images/peru.jpg');
+}
+
+.mexico {
+    background-image: url('images/mexico.jpg');
+}
+
+.japan {
+    background-image: url('images/japan.jpg');
+}
